@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
  class reverseString {
+//hellllloooooo winkle
 	/*public  satic String reverseString(String str)
 	{
 		String rvrs="";
